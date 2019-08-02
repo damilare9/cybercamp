@@ -1,0 +1,19 @@
+body {
+    background-color:lightblue;
+}
+
+h1{
+    color:white;
+text-align:center;
+}
+
+p{
+    font-family: Arial;
+    font-size:20px;
+}
+a{
+    color:rgb(135, 150, 135);
+}
+input{
+    margin: 9px
+}
